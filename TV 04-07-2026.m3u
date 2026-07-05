@@ -1,0 +1,341 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="24 HORAS" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257eefc898f85001a47654b.png" group-title="TV",24 HORAS
+https://cdn-live.mundogo.cl/24horas/24horas.mpd
+#EXTINF:-1 tvg-name="CNN CHILE" tvg-logo="https://media.tvup.cloud/canales/color_lg_62037eeed7d379002164a2d8.png" group-title="TV",CNN CHILE
+https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd
+#EXTINF:-1 tvg-name="LA RED" tvg-logo="https://media.tvup.cloud/canales/color_lg_620d372c8fb9850022b4ba31.png" group-title="TV",LA RED
+https://cdn-live.mundogo.cl/lared/lared.mpd
+#EXTINF:-1 tvg-name="TV+" tvg-logo="https://media.tvup.cloud/canales/color_lg_625428f1d4d33a746b1d4cae.png" group-title="TV",TV+
+https://cdn-live.mundogo.cl/tvp/tvp.mpd
+#EXTINF:-1 tvg-name="TV+ Opcion 2" tvg-logo="https://media.tvup.cloud/canales/color_lg_62502a604abac8001cc96a9d.png" group-title="TV",TV+ Opcion 2
+https://cdn-live.mundogo.cl/tvp/tvp.mpd
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://media.tvup.cloud/canales/color_lg_5fce62ed24dc84002216c343.png" group-title="TV",TVN
+https://cdn-live.mundogo.cl/tvn/tvn.mpd
+#EXTINF:-1 tvg-name="MEGA" tvg-logo="https://media.tvup.cloud/canales/color_lg_62037e28d7d379002164a150.png" group-title="TV",MEGA
+https://cdn-live.mundogo.cl/megahd/megahd.mpd
+#EXTINF:-1 tvg-name="CHILEVISION" tvg-logo="https://media.tvup.cloud/canales/color_lg_62037d6caed4f2001a772533.png" group-title="TV",CHILEVISION
+https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
+#EXTINF:-1 tvg-name="CANAL 13" tvg-logo="https://media.tvup.cloud/canales/color_lg_62037ff2d7d379002164a475.png" group-title="TV",CANAL 13
+https://cdn-live.mundogo.cl/canal13/canal13.mpd
+#EXTINF:-1 tvg-name="MEGA 2" tvg-logo="https://media.tvup.cloud/canales/color_lg_6235d7861590fd002119cd53.png" group-title="TV",MEGA 2
+https://cdn-live.mundogo.cl/mega2/mega2.mpd
+#EXTINF:-1 tvg-name="REC TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_64ee07703870bd9de79bbb78.png" group-title="TV",REC TV
+https://cdn-live.mundogo.cl/rectv/rectv.mpd
+#EXTINF:-1 tvg-name="13C" tvg-logo="https://media.tvup.cloud/canales/color_lg_64ee4f6fa2c5a4c10da629e9.png" group-title="TV",13C
+https://cdn-live.mundogo.cl/13c/13c.mpd
+#EXTINF:-1 tvg-name="T13 EN VIVO" tvg-logo="https://media.tvup.cloud/canales/color_lg_62fe4de33511190023ac89c4.png" group-title="TV",T13 EN VIVO
+https://cdn-live.mundogo.cl/t13vivo/t13vivo.mpd
+#EXTINF:-1 tvg-name="TVR" tvg-logo="https://media.tvup.cloud/canales/color_lg_6304eeaab44634001b767c9d.png" group-title="TV",TVR
+https://cdn-live.mundogo.cl/tvr/tvr.mpd
+#EXTINF:-1 tvg-name="TEVEX" tvg-logo="https://media.tvup.cloud/canales/color_lg_63e126bdfb9d9a00222fee8a.png" group-title="TV",TEVEX
+https://cdn-live.mundogo.cl/tevex/tevex.mpd
+#EXTINF:-1 tvg-name="BIO BIO TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f0929fcdd60022c9b510.png" group-title="TV",BIO BIO TV
+https://cdn-live.mundogo.cl/biobiotv/biobiotv.mpd
+#EXTINF:-1 tvg-name="ETC TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_6235d5fd4de2ad002284a54a.png" group-title="TV",ETC TV
+https://cdn-live.mundogo.cl/etctv/etctv.mpd
+#EXTINF:-1 tvg-name="ADULT SWIM" tvg-logo="https://media.tvup.cloud/canales/color_lg_6537eb14b01f768891ddf8ea.png" group-title="TV",ADULT SWIM
+https://cdn-live.mundogo.cl/adulswim/adulswim.mpd
+#EXTINF:-1 tvg-name="NEXOPLAY" tvg-logo="https://media.tvup.cloud/canales/color_lg_61e064f0e9b463001a393549.png" group-title="TV",NEXOPLAY
+https://cdn-live.mundogo.cl/nexoplay/nexoplay.mpd
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://media.tvup.cloud/canales/color_lg_6202a213d7d37900216309d3.png" group-title="TV",CARTOON NETWORK
+https://cdn-live.mundogo.cl/cartoonnetwork/cartoonnetwork.mpd
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="https://media.tvup.cloud/canales/color_lg_6202a2d7561e1a002177eaa7.png" group-title="TV",DISNEY CHANNEL
+https://cdn-live.mundogo.cl/disney/disney.mpd
+#EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://media.tvup.cloud/canales/color_lg_625430c04abac8001ccf81ea.png" group-title="TV",CARTOONITO
+https://cdn-live.mundogo.cl/cartoonitohd/cartoonitohd.mpd
+#EXTINF:-1 tvg-name="DISNEY JUNIOR" tvg-logo="https://media.tvup.cloud/canales/color_lg_625431a4df72a7001b95ac9a.png" group-title="TV",DISNEY JUNIOR
+https://cdn-live.mundogo.cl/disneyjr/disneyjr.mpd
+#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="https://media.tvup.cloud/canales/color_lg_62542f3fc6a6d7002397e84f.png" group-title="TV",DISCOVERY KIDS
+https://cdn-live.mundogo.cl/discoverykids/discoverykids.mpd
+#EXTINF:-1 tvg-name="FUNBOX" tvg-logo="https://media.tvup.cloud/canales/color_lg_6254324f1f8ec9001a6f7365.png" group-title="TV",FUNBOX
+https://cdn-live.mundogo.cl/funbox/funbox.mpd
+#EXTINF:-1 tvg-name="TOONCAST" tvg-logo="https://media.tvup.cloud/canales/color_lg_6254329cab7a56001a75648f.png" group-title="TV",TOONCAST
+https://cdn-live.mundogo.cl/tooncast/tooncast.mpd
+#EXTINF:-1 tvg-name="CANAL INFANTIL" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f28cf54913001a238c80.png" group-title="TV",CANAL INFANTIL
+https://cdn-live.mundogo.cl/canalinfantil/canalinfantil.mpd
+#EXTINF:-1 tvg-name="PLIM PLIM" tvg-logo="https://media.tvup.cloud/canales/color_lg_658b1f3ce2d86f36f3235384.png" group-title="TV",PLIM PLIM
+https://cdn-live.mundogo.cl/plimplim/plimplim.mpd
+#EXTINF:-1 tvg-name="ZOO MOO" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f35af54913001a238ea6.png" group-title="TV",ZOO MOO
+https://cdn-live.mundogo.cl/zoomoo/zoomoo.mpd
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62558823317dc7001ba4622e.png" group-title="TV",NTV
+https://cdn-live.mundogo.cl/ntv/ntv.mpd
+#EXTINF:-1 tvg-name="NICK" tvg-logo="https://media.tvup.cloud/canales/color_lg_625433067c8c5a0022b45f7f.png" group-title="TV",NICK
+https://cdn-live.mundogo.cl/nickhd/nickhd.mpd
+#EXTINF:-1 tvg-name="NICK JUNIOR" tvg-logo="https://media.tvup.cloud/canales/color_lg_62543359b6e8d2002028b4c9.png" group-title="TV",NICK JUNIOR
+https://cdn-live.mundogo.cl/nickjunior/nickjunior.mpd
+#EXTINF:-1 tvg-name="A3 CINE" tvg-logo="https://media.tvup.cloud/canales/color_lg_62544951ab7a56001a7588af.png" group-title="TV",A3 CINE
+https://cdn-live.mundogo.cl/a3cine1c/a3cine1c.mpd
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://media.tvup.cloud/canales/color_lg_625554f4356e0100218b62a7.png" group-title="TV",AMC
+https://cdn-live.mundogo.cl/amc/amc.mpd
+#EXTINF:-1 tvg-name="AZ CINEMA" tvg-logo="https://media.tvup.cloud/canales/color_lg_625557692b1d9600226ef597.png" group-title="TV",AZ CINEMA
+https://cdn-live.mundogo.cl/azcinema/azcinema.mpd
+#EXTINF:-1 tvg-name="CINE PREMIUM" tvg-logo="https://media.tvup.cloud/canales/color_lg_65ce61304a65c9ee86556795.png" group-title="TV",CINE PREMIUM
+https://cdn-live.mundogo.cl/cinepremium/cinepremium.mpd
+#EXTINF:-1 tvg-name="CINE HISPANO" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f4091a557f00216b8fc4.png" group-title="TV",CINE HISPANO
+https://cdn-live.mundogo.cl/cinehispano/cinehispano.mpd
+#EXTINF:-1 tvg-name="CINE FAMILIAR" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f4ddf54913001a23925b.png" group-title="TV",CINE FAMILIAR
+https://cdn-live.mundogo.cl/cinefamiliar/cinefamiliar.mpd
+#EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://media.tvup.cloud/canales/color_lg_62544609df72a7001b95cc78.png" group-title="TV",COMEDY CENTRAL
+https://cdn-live.mundogo.cl/comedycentral/comedycentral.mpd
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://media.tvup.cloud/canales/color_lg_625446ecb6e8d2002028d3ec.png" group-title="TV",TNT
+https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
+#EXTINF:-1 tvg-name="SPACE" tvg-logo="https://media.tvup.cloud/canales/color_lg_625447481f8ec9001a6f94e0.png" group-title="TV",SPACE
+https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
+#EXTINF:-1 tvg-name="EUROPA EUROPA" tvg-logo="https://media.tvup.cloud/canales/color_lg_625448db825c6d0021a07d45.png" group-title="TV",EUROPA EUROPA
+https://cdn-live.mundogo.cl/europa/europa.mpd
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://media.tvup.cloud/canales/color_lg_62544a20b6e8d2002028d8ec.png" group-title="TV",TCM
+https://cdn-live.mundogo.cl/tcm/tcm.mpd
+#EXTINF:-1 tvg-name="DE PELICULA" tvg-logo="https://media.tvup.cloud/canales/color_lg_62544c13df72a7001b95d520.png" group-title="TV",DE PELICULA
+https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
+#EXTINF:-1 tvg-name="FILM&ARTS" tvg-logo="https://media.tvup.cloud/canales/color_lg_62544cbbab7a56001a758e36.png" group-title="TV",FILM&ARTS
+https://cdn-live.mundogo.cl/filmandart/filmandart.mpd
+#EXTINF:-1 tvg-name="DHE" tvg-logo="https://media.tvup.cloud/canales/color_lg_62559b47fb01230023dc6cb7.png" group-title="TV",DHE
+https://cdn-live.mundogo.cl/dhe/dhe.mpd
+#EXTINF:-1 tvg-name="TNT SERIES" tvg-logo="https://media.tvup.cloud/canales/color_lg_62558af0fb01230023dc4307.png" group-title="TV",TNT SERIES
+https://cdn-live.mundogo.cl/tntseries/tntseries.mpd
+#EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://media.tvup.cloud/canales/color_lg_625584fbfb01230023dc33f2.png" group-title="TV",GOLDEN PLUS
+https://cdn-live.mundogo.cl/goldenplus/goldenplus.mpd
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://media.tvup.cloud/canales/color_lg_625588cc317dc7001ba463d5.png" group-title="TV",PARAMOUNT
+https://cdn-live.mundogo.cl/paramount/paramount.mpd
+#EXTINF:-1 tvg-name="TNT SPORTS" tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4cef1fdf20e048d552fe3_1740150514798.png" group-title="TV",TNT SPORTS
+https://cdn-live.mundogo.cl/tntsports/tntsports.mpd
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://media.tvup.cloud/canales/color_lg_6202a491488a53001a7bfa05.png" group-title="TV",ESPN
+https://cdn-live.mundogo.cl/espn/espn.mpd
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257cb15f4052b0021723fb7.png" group-title="TV",ESPN 2
+https://cdn-live.mundogo.cl/espn2/espn2.mpd
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://media.tvup.cloud/canales/color_lg_62555b9c356e0100218b72a9.png" group-title="TV",ESPN 3
+https://cdn-live.mundogo.cl/espn3/espn3.mpd
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://media.tvup.cloud/canales/color_lg_62555cc3e38a79001c0bcd6d.png" group-title="TV",ESPN 4
+https://cdn-live.mundogo.cl/espn4/espn4.mpd
+#EXTINF:-1 tvg-name="TYC SPORTS" tvg-logo="https://media.tvup.cloud/canales/color_lg_62558bd5317dc7001ba46b72.png" group-title="TV",TYC SPORTS
+https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
+#EXTINF:-1 tvg-name="AMERICA SPORTS" tvg-logo="https://media.tvup.cloud/canales/color_lg_625555f3356e0100218b64f7.png" group-title="TV",AMERICA SPORTS
+https://cdn-live.mundogo.cl/americasports/americasports.mpd
+#EXTINF:-1 tvg-name="CDO PREMIUM" tvg-logo="https://media.tvup.cloud/canales/color_lg_625558ef317dc7001ba3ec1f.png" group-title="TV",CDO PREMIUM
+https://cdn-live.mundogo.cl/cdopremium/cdopremium.mpd
+#EXTINF:-1 tvg-name="CDO 2" tvg-logo="https://media.tvup.cloud/canales/color_lg_653125459f559714b38f1bbb.png" group-title="TV",CDO 2
+https://cdn-live.mundogo.cl/cdo2/cdo2.mpd
+#EXTINF:-1 tvg-name="TELETRAK" tvg-logo="https://media.tvup.cloud/canales/color_lg_6317b7a016699d001a445795.png" group-title="TV",TELETRAK
+https://cdn-live.mundogo.cl/teletrak/teletrak.mpd
+#EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-logo="https://media.tvup.cloud/canales/color_lg_625585c4317dc7001ba45cbf.png" group-title="TV",GOLF CHANNEL
+https://cdn-live.mundogo.cl/golfchannel/golfchannel.mpd
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://media.tvup.cloud/canales/color_lg_6202a3e3561e1a002177ece8.png" group-title="TV",DISCOVERY
+https://cdn-live.mundogo.cl/discovery/discovery.mpd
+#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="https://media.tvup.cloud/canales/color_lg_625413f7825c6d0021a02a91.png" group-title="TV",DISCOVERY WORLD
+https://cdn-live.mundogo.cl/discoworld/discoworld.mpd
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://media.tvup.cloud/canales/color_lg_625414e7825c6d0021a02be6.png" group-title="TV",DISCOVERY ID
+https://cdn-live.mundogo.cl/iddiscovery/iddiscovery.mpd
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257ef571a557f00216b844c.png" group-title="TV",DISCOVERY TURBO
+https://cdn-live.mundogo.cl/discoveryturbo/discoveryturbo.mpd
+#EXTINF:-1 tvg-name="DISCOVERY H&H" tvg-logo="https://media.tvup.cloud/canales/color_lg_62544f287c8c5a0022b48c2d.png" group-title="TV",DISCOVERY H&H
+https://cdn-live.mundogo.cl/discohh/discohh.mpd
+#EXTINF:-1 tvg-name="TLC DISCOVERY" tvg-logo="https://media.tvup.cloud/canales/color_lg_62544f991f8ec9001a6fa1f7.png" group-title="TV",TLC DISCOVERY
+https://cdn-live.mundogo.cl/tlc/tlc.mpd
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257ca4b9fcdd60022c9580a.png" group-title="TV",DISCOVERY SCIENCE
+https://cdn-live.mundogo.cl/discociencia/discociencia.mpd
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257ec411a557f00216b7cc3.png" group-title="TV",HGTV
+https://cdn-live.mundogo.cl/hgtv/hgtv.mpd
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="https://media.tvup.cloud/canales/color_lg_6255919cfb01230023dc53f7.png" group-title="TV",FOOD NETWORK
+https://cdn-live.mundogo.cl/foodnetwork/foodnetwork.mpd
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257c803d0a078001b5e79d2.png" group-title="TV",ANIMAL PLANET
+https://cdn-live.mundogo.cl/animalplanet/animalplanet.mpd
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://media.tvup.cloud/canales/color_lg_62558e07317dc7001ba4714c.png" group-title="TV",LOVE NATURE
+https://cdn-live.mundogo.cl/lovenature/lovenature.mpd
+#EXTINF:-1 tvg-name="EL GOURMET" tvg-logo="https://media.tvup.cloud/canales/color_lg_6254508bb6e8d2002028e334.png" group-title="TV",EL GOURMET
+https://cdn-live.mundogo.cl/gourmet/gourmet.mpd
+#EXTINF:-1 tvg-name="MAS CHIC" tvg-logo="https://media.tvup.cloud/canales/color_lg_6255936d317dc7001ba47f2e.png" group-title="TV",MAS CHIC
+https://cdn-live.mundogo.cl/maschic/maschic.mpd
+#EXTINF:-1 tvg-name="HOLA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62559407e38a79001c0c5877.png" group-title="TV",HOLA TV
+https://cdn-live.mundogo.cl/holatv/holatv.mpd
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="https://media.tvup.cloud/canales/color_lg_62558ee0fb01230023dc4d42.png" group-title="TV",DISCOVERY THEATER
+https://cdn-live.mundogo.cl/discotheater/discotheater.mpd
+#EXTINF:-1 tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://media.tvup.cloud/canales/color_lg_6202a532d7d3790021630fe6.png" group-title="TV",CANAL DE LAS ESTRELLAS
+https://cdn-live.mundogo.cl/lasestrellas/lasestrellas.mpd
+#EXTINF:-1 tvg-name="TELENOVELAS" tvg-logo="https://media.tvup.cloud/canales/color_lg_62543452df72a7001b95b0ff.png" group-title="TV",TELENOVELAS
+https://cdn-live.mundogo.cl/telenovelas/telenovelas.mpd
+#EXTINF:-1 tvg-name="UNIVISION" tvg-logo="https://media.tvup.cloud/canales/color_lg_65d3bcd9d3a58d81de1ae930.png" group-title="TV",UNIVISION
+https://cdn-live.mundogo.cl/univision/univision.mpd
+#EXTINF:-1 tvg-name="KANAL D DRAMA" tvg-logo="https://media.tvup.cloud/canales/color_lg_63fdbc844cfe060022899984.png" group-title="TV",KANAL D DRAMA
+https://cdn-live.mundogo.cl/kanald/kanald.mpd
+#EXTINF:-1 tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://media.tvup.cloud/canales/color_lg_6255952dfb01230023dc5d5d.png" group-title="TV",AZTECA INTERNACIONAL
+https://cdn-live.mundogo.cl/azmundo/azmundo.mpd
+#EXTINF:-1 tvg-name="AZ CORAZON" tvg-logo="https://media.tvup.cloud/canales/color_lg_62559c65e38a79001c0c6e9b.png" group-title="TV",AZ CORAZON
+https://cdn-live.mundogo.cl/azcorazon/azcorazon.mpd
+#EXTINF:-1 tvg-name="AZ CLIC" tvg-logo="https://media.tvup.cloud/canales/color_lg_6255964f2b1d9600226f9519.png" group-title="TV",AZ CLIC
+https://cdn-live.mundogo.cl/azclic/azclic.mpd
+#EXTINF:-1 tvg-name="TNT NOVELAS" tvg-logo="https://media.tvup.cloud/canales/color_lg_6495add8be936bf046a10b88.png" group-title="TV",TNT NOVELAS
+https://cdn-live.mundogo.cl/tntnovelas/tntnovelas.mpd
+#EXTINF:-1 tvg-name="NOVELISIMA" tvg-logo="https://media.tvup.cloud/canales/color_lg_653ffb28ff7ed63d0df0984b.png" group-title="TV",NOVELISIMA
+https://cdn-live.mundogo.cl/novelisima/novelisima.mpd
+#EXTINF:-1 tvg-name="ANTENA 3" tvg-logo="https://media.tvup.cloud/canales/color_lg_6203808e3c835a001d46bac1.png" group-title="TV",ANTENA 3
+https://cdn-live.mundogo.cl/antena3seriesinternacional/antena3seriesinternacional.mpd
+#EXTINF:-1 tvg-name="CANAL 26" tvg-logo="https://media.tvup.cloud/canales/color_lg_62541711825c6d0021a02f11.png" group-title="TV",CANAL 26
+https://cdn-live.mundogo.cl/canal26/canal26.mpd
+#EXTINF:-1 tvg-name="FRANCE MONDE" tvg-logo="https://media.tvup.cloud/canales/color_lg_625418ee4abac8001ccf5b73.png" group-title="TV",FRANCE MONDE
+https://cdn-live.mundogo.cl/francemonde/francemonde.mpd
+#EXTINF:-1 tvg-name="ANTENA 3" tvg-logo="https://media.tvup.cloud/canales/color_lg_6255904ce38a79001c0c4e91.png" group-title="TV",ANTENA 3
+https://cdn-live.mundogo.cl/antena3/antena3.mpd
+#EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://media.tvup.cloud/canales/color_lg_62558a53317dc7001ba467b2.png" group-title="TV",TELEFE
+https://cdn-live.mundogo.cl/telefehd/telefehd.mpd
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://media.tvup.cloud/canales/color_lg_62555b16317dc7001ba3f1a7.png" group-title="TV",DW
+https://cdn-live.mundogo.cl/dw/dw.mpd
+#EXTINF:-1 tvg-name="CNN ESPANOL" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257c8ebf54913001a23271d.png" group-title="TV",CNN ESPANOL
+https://cdn-live.mundogo.cl/cnnespanol/cnnespanol.mpd
+#EXTINF:-1 tvg-name="CNN INTERNACIONAL" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257c932f4052b0021723b1f.png" group-title="TV",CNN INTERNACIONAL
+https://cdn-live.mundogo.cl/cnninternacional/cnninternacional.mpd
+#EXTINF:-1 tvg-name="TV PUBLICA" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257cece9fcdd60022c962b0.png" group-title="TV",TV PUBLICA
+https://cdn-live.mundogo.cl/tvpublica/tvpublica.mpd
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257ed82f4052b002172936f.png" group-title="TV",FOX NEWS
+https://cdn-live.mundogo.cl/foxnews/foxnews.mpd
+#EXTINF:-1 tvg-name="RT" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257ede7d0a078001b5ed52f.png" group-title="TV",RT
+https://cdn-live.mundogo.cl/rusiatoday/rusiatoday.mpd
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257ee85898f85001a476455.png" group-title="TV",CGTN
+https://cdn-live.mundogo.cl/cctv/cctv.mpd
+#EXTINF:-1 tvg-name="VE PLUS" tvg-logo="https://media.tvup.cloud/canales/color_lg_653ffe4988fa9e4740610a7e.png" group-title="TV",VE PLUS
+https://cdn-live.mundogo.cl/veplus/veplus.mpd
+#EXTINF:-1 tvg-name="EL TRECE INTERNACIONAL" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f5b1f4052b002172a761.png" group-title="TV",EL TRECE INTERNACIONAL
+https://cdn-live.mundogo.cl/treceinternacional/treceinternacional.mpd
+#EXTINF:-1 tvg-name="BANDAMAX" tvg-logo="https://media.tvup.cloud/canales/color_lg_62544d564abac8001ccfae8f.png" group-title="TV",BANDAMAX
+https://cdn-live.mundogo.cl/bandamax/bandamax.mpd
+#EXTINF:-1 tvg-name="QUIERO MUSICA" tvg-logo="https://media.tvup.cloud/canales/color_lg_62544e8dc6a6d70023981ab3.png" group-title="TV",QUIERO MUSICA
+https://cdn-live.mundogo.cl/quierotv/quierotv.mpd
+#EXTINF:-1 tvg-name="HTV" tvg-logo="https://media.tvup.cloud/canales/color_lg_625599034c475a001a5f66c4.png" group-title="TV",HTV
+https://cdn-live.mundogo.cl/htv/htv.mpd
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://media.tvup.cloud/canales/color_lg_625596f1fb01230023dc61b6.png" group-title="TV",MTV
+https://cdn-live.mundogo.cl/mtv/mtv.mpd
+#EXTINF:-1 tvg-name="ECOOL" tvg-logo="https://media.tvup.cloud/canales/color_lg_625599974c475a001a5f684c.png" group-title="TV",ECOOL
+https://cdn-live.mundogo.cl/ecool/ecool.mpd
+#EXTINF:-1 tvg-name="MI MUSICA K-POP" tvg-logo="https://media.tvup.cloud/canales/color_lg_6317ae026c38510021bdf660.png" group-title="TV",MI MUSICA K-POP
+https://cdn-live.mundogo.cl/musicakpop/musicakpop.mpd
+#EXTINF:-1 tvg-name="MI MUSICA HITS" tvg-logo="https://media.tvup.cloud/canales/color_lg_65d3640973b9dae27696bece.png" group-title="TV",MI MUSICA HITS
+https://cdn-live.mundogo.cl/musicahits/musicahits.mpd
+#EXTINF:-1 tvg-name="CAMPO ABIERTO" tvg-logo="https://media.tvup.cloud/canales/color_lg_6235d340294dac0023370284.png" group-title="TV",CAMPO ABIERTO
+https://cdn-live.mundogo.cl/campoabierto/campoabierto.mpd
+#EXTINF:-1 tvg-name="MUNDO TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_61e064535ca05500220f96ed.png" group-title="TV",MUNDO TV
+https://cdn-live.mundogo.cl/mundotv/mundotv.mpd
+#EXTINF:-1 tvg-name="CULTURA ONLINE" tvg-logo="https://media.tvup.cloud/canales/color_lg_638abcabbe5ae700192560d4.png" group-title="TV",CULTURA ONLINE
+https://live-hls1.mundogo.cl/mundo/Culturaonline/index.m3u8
+#EXTINF:-1 tvg-name="MARGA MARGA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_6464dce56b92b5f412e74eed.png" group-title="TV",MARGA MARGA TV
+https://cdn-live.mundogo.cl/margamargatv/margamargatv.mpd
+#EXTINF:-1 tvg-name="TVU" tvg-logo="https://media.tvup.cloud/canales/color_lg_625427791f8ec9001a6f61df.png" group-title="TV",TVU
+https://cdn-live.mundogo.cl/tvu/tvu.mpd
+#EXTINF:-1 tvg-name="CANAL 9 REGIONAL" tvg-logo="https://media.tvup.cloud/canales/color_lg_625428431f8ec9001a6f6346.png" group-title="TV",CANAL 9 REGIONAL
+https://cdn-live.mundogo.cl/canal9regional/canal9regional.mpd
+#EXTINF:-1 tvg-name="PUNTAJE NACIONAL" tvg-logo="https://media.tvup.cloud/canales/color_lg_62542b267c8c5a0022b45329.png" group-title="TV",PUNTAJE NACIONAL
+https://cdn-live.mundogo.cl/puntajenacional/puntajenacional.mpd
+#EXTINF:-1 tvg-name="APRENDO LIBRE" tvg-logo="https://media.tvup.cloud/canales/color_lg_62542bb4d4d33a746b1d512b.png" group-title="TV",APRENDO LIBRE
+https://cdn-live.mundogo.cl/aprendolibre/aprendolibre.mpd
+#EXTINF:-1 tvg-name="GOZA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62542c3364a28d0027804231.png" group-title="TV",GOZA TV
+https://cdn-live.mundogo.cl/gozatv/gozatv.mpd
+#EXTINF:-1 tvg-name="VITALIDAD TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62542cfb7c8c5a0022b45613.png" group-title="TV",VITALIDAD TV
+https://cdn-live.mundogo.cl/vitalidadtv1c/vitalidadtv1c.mpd
+#EXTINF:-1 tvg-name="SENADO TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62542eb2b6e8d2002028add0.png" group-title="TV",SENADO TV
+https://cdn-live.mundogo.cl/tvsenadohd/tvsenadohd.mpd
+#EXTINF:-1 tvg-name="DIPUTADOS TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_625413277c8c5a0022b42e04.png" group-title="TV",DIPUTADOS TV
+https://cdn-live.mundogo.cl/diputadoshd/diputadoshd.mpd
+#EXTINF:-1 tvg-name="VOZ POPULI" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257e499f54913001a236b01.png" group-title="TV",VOZ POPULI
+https://live-hls2.mundogo.cl/vozpopuli/index.m3u8
+#EXTINF:-1 tvg-name="SANTIAGO TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f175898f85001a476b29.png" group-title="TV",SANTIAGO TV
+https://cdn-live.mundogo.cl/santiagotv/santiagotv.mpd
+#EXTINF:-1 tvg-name="ENLACE" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257f64b1a557f00216b95c3.png" group-title="TV",ENLACE
+https://live-hls3.mundogo.cl/enlace/index.m3u8
+#EXTINF:-1 tvg-name="ZIZA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62580798f4052b002172d4cc.png" group-title="TV",ZIZA TV
+https://live-hls2.mundogo.cl/zizatv/index.m3u8
+#EXTINF:-1 tvg-name="PACIFICO TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_625809131a557f00216bc490.png" group-title="TV",PACIFICO TV
+https://live-hls2.mundogo.cl/pacificotv/index.m3u8
+#EXTINF:-1 tvg-name="MOLINA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_625820fbd0a078001b5f4d18.png" group-title="TV",MOLINA TV
+https://live-hls1.mundogo.cl/mundo/Molinatv/index.m3u8
+#EXTINF:-1 tvg-name="EMOCION TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62582148898f85001a47db2e.png" group-title="TV",EMOCION TV
+https://live-hls2.mundogo.cl/emociontv/index.m3u8
+#EXTINF:-1 tvg-name="PINTANA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_6258229fd0a078001b5f4e26.png" group-title="TV",PINTANA TV
+https://live-hls1.mundogo.cl/mundo/Pintanatv/index.m3u8
+#EXTINF:-1 tvg-name="TV5 ANGOL" tvg-logo="https://media.tvup.cloud/canales/color_lg_625823a89fcdd60022ca26ea.png" group-title="TV",TV5 ANGOL
+https://live-hls1.mundogo.cl/mundo/Tv5angol/index.m3u8
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://media.tvup.cloud/canales/color_lg_6317c13b7746a3001abee53e.png" group-title="TV",UCL
+https://cdn-live.mundogo.cl/ucl/ucl.mpd
+#EXTINF:-1 tvg-name="ZONA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_6258243a1a557f00216bfbd5.png" group-title="TV",ZONA TV
+https://live-hls2.mundogo.cl/zonaltv/index.m3u8
+#EXTINF:-1 tvg-name="DINAMICA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_625824cd1a557f00216bfc2c.png" group-title="TV",DINAMICA TV
+https://live-hls3.mundogo.cl/dinamicatv/index.m3u8
+#EXTINF:-1 tvg-name="MAS TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_625825b3898f85001a47dde4.png" group-title="TV",MAS TV
+https://live-hls2.mundogo.cl/tvmas/index.m3u8
+#EXTINF:-1 tvg-name="TV4 LOTA" tvg-logo="https://media.tvup.cloud/canales/color_lg_62582698f4052b00217312dc.png" group-title="TV",TV4 LOTA
+https://live-hls2.mundogo.cl/tv4/index.m3u8
+#EXTINF:-1 tvg-name="NUEVA REGION" tvg-logo="https://media.tvup.cloud/canales/color_lg_625827249fcdd60022ca2958.png" group-title="TV",NUEVA REGION
+https://live-hls1.mundogo.cl/mundo/Nuevaregion/index.m3u8
+#EXTINF:-1 tvg-name="JUNTOS TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_625827e71a557f00216bfe60.png" group-title="TV",JUNTOS TV
+https://live-hls2.mundogo.cl/juntostv/index.m3u8
+#EXTINF:-1 tvg-name="SEXTA VISION" tvg-logo="https://media.tvup.cloud/canales/color_lg_62582905898f85001a47e082.png" group-title="TV",SEXTA VISION
+https://live-hls1.mundogo.cl/mundo/Sextavision/index.m3u8
+#EXTINF:-1 tvg-name="NCC TOME" tvg-logo="https://media.tvup.cloud/canales/color_lg_62582a1ef54913001a23ff08.png" group-title="TV",NCC TOME
+https://live-hls2.mundogo.cl/ncc/index.m3u8
+#EXTINF:-1 tvg-name="GVISION" tvg-logo="https://media.tvup.cloud/canales/color_lg_62582b41f4052b0021731631.png" group-title="TV",GVISION
+https://live-hls2.mundogo.cl/gvision/index.m3u8
+#EXTINF:-1 tvg-name="CLUB TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62582e861a557f00216c02c3.png" group-title="TV",CLUB TV
+https://live-hls3.mundogo.cl/clubtv/index.m3u8
+#EXTINF:-1 tvg-name="CULTURA ONLINE" tvg-logo="https://media.tvup.cloud/canales/color_lg_62582f15d0a078001b5f55d0.png" group-title="TV",CULTURA ONLINE
+https://live-hls1.mundogo.cl/mundo/Culturaonline/index.m3u8
+#EXTINF:-1 tvg-name="TV COSTA" tvg-logo="https://media.tvup.cloud/canales/color_lg_62582f7a898f85001a47e4c3.png" group-title="TV",TV COSTA
+https://live-hls1.mundogo.cl/mundo/TVcosta/index.m3u8
+#EXTINF:-1 tvg-name="UATV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62583018d0a078001b5f5687.png" group-title="TV",UATV
+https://live-hls1.mundogo.cl/mundo/UATV/index.m3u8
+#EXTINF:-1 tvg-name="CURANILAHUE TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_625830a5f54913001a24035c.png" group-title="TV",CURANILAHUE TV
+https://live-hls3.mundogo.cl/curanilahuetv/index.m3u8
+#EXTINF:-1 tvg-name="PLAZA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_6258310e9fcdd60022ca2f8a.png" group-title="TV",PLAZA TV
+https://live-hls1.mundogo.cl/mundo/Plazatv/index.m3u8
+#EXTINF:-1 tvg-name="PICHILEMU TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62583217f4052b0021731a66.png" group-title="TV",PICHILEMU TV
+https://live-hls1.mundogo.cl/mundo/PichilemuTV/index.m3u8
+#EXTINF:-1 tvg-name="EXPRESION TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_625832af9fcdd60022ca3068.png" group-title="TV",EXPRESION TV
+https://live-hls1.mundogo.cl/mundo/Exprezion/index.m3u8
+#EXTINF:-1 tvg-name="RDO" tvg-logo="https://media.tvup.cloud/canales/color_lg_62583346f4052b0021731aff.png" group-title="TV",RDO
+https://live-hls1.mundogo.cl/mundo/RDO/index.m3u8
+#EXTINF:-1 tvg-name="ODISEA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62583426f4052b0021731b82.png" group-title="TV",ODISEA TV
+https://live-hls2.mundogo.cl/odiseatv/index.m3u8
+#EXTINF:-1 tvg-name="EL TIPOGRAFO TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62583513d0a078001b5f5955.png" group-title="TV",EL TIPOGRAFO TV
+https://live-hls1.mundogo.cl/mundo/Tipografo/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 8 LOS SAUCES" tvg-logo="https://media.tvup.cloud/canales/color_lg_6258359cf4052b0021731c42.png" group-title="TV",CANAL 8 LOS SAUCES
+https://live-hls1.mundogo.cl/mundo/LossaucesTV/index.m3u8
+#EXTINF:-1 tvg-name="MUNDOS LACUSTRES" tvg-logo="https://media.tvup.cloud/canales/color_lg_625835f6f54913001a24064d.png" group-title="TV",MUNDOS LACUSTRES
+https://live-hls1.mundogo.cl/mundo/Tvradiovolcan/index.m3u8
+#EXTINF:-1 tvg-name="EKIS TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62583689d0a078001b5f5a3d.png" group-title="TV",EKIS TV
+https://live-hls1.mundogo.cl/mundo/EquizTV/index.m3u8
+#EXTINF:-1 tvg-name="CANAL LOCAL QUILLOTA" tvg-logo="https://media.tvup.cloud/canales/color_lg_6258370dd0a078001b5f5a6f.png" group-title="TV",CANAL LOCAL QUILLOTA
+https://live-hls1.mundogo.cl/mundo/Canallocalquillota/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 21" tvg-logo="https://media.tvup.cloud/canales/color_lg_629e14611b081600230e5ceb.png" group-title="TV",CANAL 21
+https://live-hls1.mundogo.cl/mundo/Canal21/index.m3u8
+#EXTINF:-1 tvg-name="BUIN SOMOS TODOS" tvg-logo="https://media.tvup.cloud/canales/color_lg_629e0f53e0559200215249f8.png" group-title="TV",BUIN SOMOS TODOS
+https://live-hls1.mundogo.cl/mundo/Buinsomostodos/index.m3u8
+#EXTINF:-1 tvg-name="TELECANAL TALCA" tvg-logo="https://media.tvup.cloud/canales/color_lg_629e3351794ac0001cf528d9.png" group-title="TV",TELECANAL TALCA
+https://live-hls1.mundogo.cl/mundo/Telecanaltalca/index.m3u8
+#EXTINF:-1 tvg-name="VIVO TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62cf3ba354e537001b824ffc.png" group-title="TV",VIVO TV
+https://live-hls2.mundogo.cl/vivotv/index.m3u8
+#EXTINF:-1 tvg-name="TV5 LINARES" tvg-logo="https://media.tvup.cloud/canales/color_lg_62cef6fbbe3a6e0023f127f7.png" group-title="TV",TV5 LINARES
+https://cdn-live.mundogo.cl/tv5linares/tv5linares.mpd
+#EXTINF:-1 tvg-name="UTV SAN CLEMENTE" tvg-logo="https://media.tvup.cloud/canales/color_lg_62cef96df006640022d58a51.png" group-title="TV",UTV SAN CLEMENTE
+https://cdn-live.mundogo.cl/utv/utv.mpd
+#EXTINF:-1 tvg-name="COOL TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62cf0131a305d400212607f9.png" group-title="TV",COOL TV
+https://live-hls2.mundogo.cl/cooltv/index.m3u8
+#EXTINF:-1 tvg-name="TV LOS RIOS" tvg-logo="https://media.tvup.cloud/canales/color_lg_62cef3c1ca9151001a67a69e.png" group-title="TV",TV LOS RIOS
+https://live-hls1.mundogo.cl/mundo/centralnoticias/index.m3u8
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62cf245314fee3001b3385c5.png" group-title="TV",GTV
+https://live-hls2.mundogo.cl/gtv/index.m3u8
+#EXTINF:-1 tvg-name="SANTA BARBARA TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62cf262feeb1b700224894c3.png" group-title="TV",SANTA BARBARA TV
+https://live-hls2.mundogo.cl/sbtv/index.m3u8
+#EXTINF:-1 tvg-name="TELECAUQUENES" tvg-logo="https://media.tvup.cloud/canales/color_lg_62cf4519a3c935001c883055.png" group-title="TV",TELECAUQUENES
+https://live-hls2.mundogo.cl/telecauquenes/index.m3u8
+#EXTINF:-1 tvg-name="GUSTO TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_658b1c9da28d9d92114ed0eb.png" group-title="TV",GUSTO TV
+https://cdn-live.mundogo.cl/gustotv/gustotv.mpd
+#EXTINF:-1 tvg-name="CONCEPCION TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_64a726efc3d856bc9d59be95.png" group-title="TV",CONCEPCION TV
+https://cdn-live.mundogo.cl/concepciontv/concepciontv.mpd
+#EXTINF:-1 tvg-name="MI RADIO TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_64c32ee4c023b77ab12ec7b5.png" group-title="TV",MI RADIO TV
+https://cdn-live.mundogo.cl/miradio/miradio.mpd
+#EXTINF:-1 tvg-name="NORTEVISION" tvg-logo="https://media.tvup.cloud/canales/color_lg_653676494fc6e1592d05fedb.png" group-title="TV",NORTEVISION
+https://live-hls2.mundogo.cl/nortevision/index.m3u8
+#EXTINF:-1 tvg-name="NUEVO TIEMPO" tvg-logo="https://media.tvup.cloud/canales/color_lg_625415ec4abac8001ccf572d.png" group-title="TV",NUEVO TIEMPO
+https://cdn-live.mundogo.cl/nuevotiempo/nuevotiempo.mpd
+#EXTINF:-1 tvg-name="EWTN" tvg-logo="https://media.tvup.cloud/canales/color_lg_6257ecf6f4052b0021729208.png" group-title="TV",EWTN
+https://cdn-live.mundogo.cl/ewtn/ewtn.mpd
+#EXTINF:-1 tvg-name="DSPORTS" tvg-logo="https://assets.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="TV",DSPORTS
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-name="DSPORTS OP2" tvg-logo="https://assets.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg" group-title="TV",DSPORTS OP2
+http://8.243.126.131:8000/play/a05a/index.m3u8
